@@ -16,7 +16,7 @@ module.exports = {
           300: "#CED4D9",
           400: "#9AA6B1", // text-hint // icon-normal
           500: "#71717A", // text-secondary //icon-hover
-          700: "#414147",
+          700: "#414147", 
           800: "#1B1B1D", // icon-active
           900: "#181C20", // text-primary
         },
