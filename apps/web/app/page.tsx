@@ -1,4 +1,4 @@
-import ClientWrapper from "../components/clientWrapper";
+import ClientWrapper from "@components/clientWrapper";
 
 export default function Home() {
   return (
